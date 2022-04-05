@@ -1,0 +1,24 @@
+.midBox {
+    display: flex;
+    border: 1px blue dashed;
+    border-radius: 40px;
+    justify-content: center;
+    width: 25%;
+    background-color: lightseagreen;
+    color: white;
+    box-shadow: rgb(15, 68, 57) 8px 8px 6px;
+  }
+
+
+
+body {
+    background: green;
+}
+
+h1 {
+    color: blue;
+}
+
+.purple {
+    background: purple;
+}
